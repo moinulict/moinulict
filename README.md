@@ -36,9 +36,6 @@ Here’s a look at the technologies and tools that I work with:
 - **Other Specialties**:  
   - GraphQL, Object-Oriented Programming (OOP), Software Design, E-Commerce Development
 
-## 📈 GitHub Stats
-
-![Moinul's GitHub stats](https://github-readme-stats.vercel.app/api?username=moinulict&show_icons=true&theme=radical)
 
 ## 🔗 Let's Connect
 
